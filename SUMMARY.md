@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [EVM structure](README.md)
+* [Consensus on Ethereum](consensus-on-ethereum.md)
